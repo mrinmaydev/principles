@@ -1,4 +1,4 @@
-baseURL = "https://principles.github.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "Principles"
 theme="archie"
