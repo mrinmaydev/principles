@@ -1,4 +1,4 @@
-baseURL = "https://principles.github.io/"
+baseURL = "http://mrinmaydev.github.io/principles.github.io/"
 languageCode = "en-us"
 title = "Principles"
 theme="archie"
@@ -7,7 +7,7 @@ copyright = "© Principles by Mrinmay Dev Sarma"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-relativeURLs = true
+#relativeURLs = true
 
 paginate=10 # articles per page
 
