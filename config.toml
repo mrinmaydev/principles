@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = ""
 languageCode = "en-us"
 title = "Principles"
 theme="archie"
@@ -7,7 +7,7 @@ copyright = "© Principles by Mrinmay Dev Sarma"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-#relativeUrls = true
+relativeUrls = true
 #canonifyURLs = true
 
 paginate=10 # articles per page
