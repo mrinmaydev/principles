@@ -5,8 +5,7 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Principles</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© Principles by Mrinmay Dev Sarma</copyright>
+    <language>en</language>
     <lastBuildDate>Wed, 22 Dec 2021 13:15:07 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sample</title>
@@ -14,6 +13,15 @@
       <pubDate>Wed, 22 Dec 2021 13:15:07 +0530</pubDate>
       
       <guid>/tags/sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sample01</title>
+      <link>/tags/sample01/</link>
+      <pubDate>Wed, 22 Dec 2021 13:15:07 +0530</pubDate>
+      
+      <guid>/tags/sample01/</guid>
       <description></description>
     </item>
     
