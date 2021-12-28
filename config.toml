@@ -124,7 +124,7 @@ icon = "fa fa-2x fa-medium"
 weight = 5
 url = "https://mrinmaydevsarma.medium.com/"
 
-[[params.social]]
+#[[params.social]]
 name = "RSS"
 icon = "fa fa-2x fa-rss"
 weight = 6
