@@ -17,6 +17,19 @@ paginate=10 # articles per page
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "Ordinary everyday things"
 
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"]
+
+[outputs]
+home = ["HTML", "RSS", "Algolia"]
+
 # Social Tags
 
 #[[params.social]]
