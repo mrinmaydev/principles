@@ -13,8 +13,8 @@ relativeUrls = true
 paginate=10 # articles per page
 
 [params]
-	mode="toggle" # color-mode → light,dark,toggle or auto
-	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	mode="dark" # color-mode → light,dark,toggle or auto
+	useCDN=true # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "Ordinary everyday things"
 
 [outputFormats.Algolia]
