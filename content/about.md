@@ -6,9 +6,8 @@ tags:
 aliases:
 - about
 - about-me	
-description: "Here's how you should actually start your Linux journey"
+description: "A few lines to indroduce myself"
 author: "Mrinmay Dev Sarma"
-
 ---
 # Greetings!
 
