@@ -1,12 +1,14 @@
 ---
-title: "About"
+title: "About me" 
 date: 2022-01-01
+tags: 
+- about
 aliases:
-	- about-me
-	- principles
-	- mrinmaydevsarma
-description: "the about me page"
-author: Mrinmay Dev Sarma
+- about
+- about-me	
+description: "Here's how you should actually start your Linux journey"
+author: "Mrinmay Dev Sarma"
+
 ---
 # Greetings!
 
