@@ -1,6 +1,6 @@
 ---
-title: About
-date: '2022-01-01'
+title: "About"
+date: 2022-01-01
 aliases:
 	- about-me
 	- principles
