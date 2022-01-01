@@ -18,7 +18,7 @@ I am Mrinmay Dev Sarma, a 15.8 yo high schooler 🎒, an introvert and an overth
 
 But this is in no way enough to describe me!(no pun intended)
 
-I shall list some of my obsessions and dislikes, which cam, at least to an extent, illustrate my personality:
+I shall list some of my obsessions and dislikes, which can, at least to an extent, illustrate my personality:
 
 _My Obsessions_ -
 
