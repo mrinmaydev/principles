@@ -13,7 +13,7 @@ author: "Mrinmay Dev Sarma"
 
 I am so much in amusement to welcome you to my static, virtual representative of mine, “Principles”. (The domain reads different -"Principles by M dev" because principles.info was, unfortunately, already taken 😞)
 
-I am Mrinmay Dev Sarma, a 15.8 yo high schooler 🎒, an introvert and an overthinker who mostly prefer words ✏ to voice 🎤
+I am Mrinmay Dev Sarma, a 15.8 yo high schooler, an introvert and an overthinker who mostly prefer words ✏ to voice 🎤
 
 But this is in no way enough to describe me!(no pun intended)
 
@@ -27,9 +27,9 @@ _My Obsessions_ -
     
 -   Linux and Open source🐧
     
--   Web 3.0🌏 (the page you're on right now, is indeed deployed on the web 3!)
+-   Web 3.0 🌏 (the page you're on right now, is indeed deployed on the web 3!)
     
--   Stationary goodies 😍😍
+-   Stationary goodies 😋
     
 -   Learning effective ways to learn 📚
     
@@ -46,7 +46,6 @@ _My Obsessions_ -
 -   Tinkering with big data 📊 and (still in progress, but I am more than willing to share what I've learned so far!)
     
 -   Of course! Writing 🖊️
- 📖
     
 
 _My Dislikes_ -
@@ -68,7 +67,7 @@ By now, you should hopefully be able to draw a rough sketch of mine.
 
 But you have come here for a reason, haven't you? So, I want to make sure you know what you're surfing.
 
-Principles is a portfolio website of mine🙂, which is also one of my dream projects - a static site deployed on the Internet Computer(or, more intuitively, the WEB 3.0) with a major contributor being Dfinity(I assure you to make a separate article on this subject, and hopefully it is up already by the time you're reading this). Here are few things I wish to deliver to my viewers through Principles -
+Principles is a portfolio website of mine, which is also one of my dream projects - a static site deployed on the Internet Computer(or, more intuitively, the WEB 3.0) with a major contributor being Dfinity(I assure you to make a separate article on this subject, and hopefully it is up already by the time you're reading this). Here are few things I wish to deliver to my viewers through Principles -
 
 -   My principles framed around this world as a teenager.
     
