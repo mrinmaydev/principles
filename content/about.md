@@ -11,9 +11,9 @@ author: "Mrinmay Dev Sarma"
 ---
 # Greetings!
 
-I am so much in amusement to welcome you to my static, virtual representative of mine, “Principles”. (The domain reads different -"Principles by M dev" because principles.info was, unfortunately, already taken 😞)
+I am so much in amusement to welcome you to my static, virtual representative of mine, “Principles”. (The domain reads different -"Principles by M dev" because principles.info was, unfortunately, already taken)
 
-I am Mrinmay Dev Sarma, a 15.8 yo high schooler, an introvert and an overthinker who mostly prefer words ✏ to voice 🎤
+I am Mrinmay Dev Sarma, a 15.8 yo high schooler, an introvert and an overthinker who mostly prefer words to voice 🎤
 
 But this is in no way enough to describe me!(no pun intended)
 
