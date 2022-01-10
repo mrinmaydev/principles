@@ -2,7 +2,7 @@
 title: "The QUAD. What does it mean to India?"
 date: 2021-10-22
 author: "Mrinmay Dev Sarma"
-description: "My insight into the historic QUAD and analyze what it means to India"
+description: "My insight into the historic QUAD and what it means to India"
 draft: false
 category:
 - International Affairs
