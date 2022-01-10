@@ -6,7 +6,7 @@ description: "My insight into the historic QUAD and what it means to India"
 draft: false
 category:
 - International Affairs
-tags: [quad, global_alliance, indo-pacific, india_in_quad] 
+tags: [quad, global_alliance, indo-pacific, india_in_quad, taliban-afghanistan] 
 ---
 # The Historic QUAD
 Indo-Pacific (formerly Asia-Pacific, excluding India) is basically a maritime region spanning from the Indian Ocean to the West Pacific Ocean, through which most of the world's trade passes now. There was a time before the Cold War when the Atlantic Ocean was at the centre of World trade, but now it has shifted towards the Indo-Pacific. The region is considered to be an inclusive, open, integrated, and balanced space by India. U.S. policy views it as a free and open Indo-Pacific, highlighting the need for rules or norms of conduct in the region, in order to contain the influence of China.
